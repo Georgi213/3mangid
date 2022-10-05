@@ -46,7 +46,7 @@ namespace _3_mangid
             this.Controls.Add(mathquiz);
             this.Controls.Add(matchinggame);
         }
-
+        //sasad
         private void Mathquiz_Click(object sender, EventArgs e)
         {
             Mathematicquiz math = new Mathematicquiz();
